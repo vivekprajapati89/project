@@ -1,1 +1,0 @@
-rint("temperature :",data[])
